@@ -7,6 +7,8 @@ Ubuntu: 24.04.2 LTS, Gnat: 14.2.1, Gtkada:25.0.1
 PC: OMEN 17-ck2095cl, i9-13900HX, RTX-4080  
   
 See more detail at: https://n7sd.com/ada1-2/openal-ada-1-1-1-coreland-with-gnat20202021-on-ubuntu-installation/  
+
+Original files: https://github.com/io7m/coreland-openal-ada
   
 There are 13 files to edit (x12) and create (x1).  
 Files 1-9: To resolve build errors.  
